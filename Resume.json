@@ -1,0 +1,24 @@
+{   "name"   : "Arunkumar",
+    "Degree" : "BE" ,
+    "Dept"   : "Mechanical" ,
+    "college": "Anna University",
+    "Course" : "Full stack development",
+    "Subject": "JavaScript",
+    "Address"  : {
+
+                "Permanent Address" : {
+                                      "Number"  : "1/69",
+                                      "street": "North Street",
+                                      "City"  : "Perambalur"
+                                    },
+                
+               "Temporary Address" :  {
+                                        "Number" : "6",
+                                         "City"   : "Chennai"
+                                        }     
+                                    },
+
+     "Mobile No." : "123456",
+     "Email"      :  ["arun@gmail","kumar@gmail"]
+
+}
